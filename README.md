@@ -17,7 +17,8 @@ Find topics important to cat and dog owners.
 5. Identify Creators With Cat And Dog Owners In The Audience Find creators with the most cat and/or dog owners. 
 Find creators with the highest statistically significant percentages of cat and/or dog owners.
 
-Procedures
+Procedures:
+
 ● Identified dog/cat owners and topics important to them for targeted marketing based on 5 million+ user comments
 
 ● Self-labeled potential dog/cat owners using RegexTokenizer and Word2Vector
