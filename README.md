@@ -19,6 +19,9 @@ Find creators with the highest statistically significant percentages of cat and/
 
 Procedures
 ● Identified dog/cat owners and topics important to them for targeted marketing based on 5 million+ user comments
+
 ● Self-labeled potential dog/cat owners using RegexTokenizer and Word2Vector
+
 ● Trained a Gradient Boosted Tree model and tuned hyper parameters via grid search with AUC = 0.96
+
 ● Extracted features with TF-IDF approach and trained a Latent Dirichlet Analysis (LDA) model
